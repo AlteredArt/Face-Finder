@@ -4,8 +4,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding: 0;
-  /* background: linear-gradient(89deg, green 0%, purple 100%); */
-  background: blue;
+  background: linear-gradient(89deg, red 0%, green 100%);
+  /* background: blue; */
 }
 
 code {
